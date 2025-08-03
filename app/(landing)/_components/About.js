@@ -29,17 +29,17 @@ const About = () => {
       <div id="about" className="max-w-[85rem] px-4 py-10 sm:py-14 mx-auto">
         <div className="my-7">
           <h2 className="font-stopbuck text-6xl text-duis text-shadow text-center mt-14">
-            About Dúi
+            About SPIKE
           </h2>
           <h3 className="font-stopbuck text-2xl text-center italic text-black">
-            {`(Nguyen Van Dui)`}
+            {`(Team Spike)`}
           </h3>
         </div>
         <div className="grid lg:grid-cols-2 gap-6">
           <div className="">
             <Image
               className="h-full object-cover"
-              src="/collection/9.png"
+              src="/WoodLogo.png"
               width={700}
               height={700}
               alt="Dui Image"
@@ -49,23 +49,26 @@ const About = () => {
           <div className="p-4 h-full sm:p-6">
             <h3 className="font-mono text-lg sm:text-2xl text-[#33271e] tracking-widest text-justify sm:text-left">
               <p className="indent-12">
-                <span className="text-3xl font-bold">Dui</span>, affectionately
+                <span className="text-3xl font-bold">SPIKE</span>, also
                 known as the{" "}
-                <span className="font-semibold italic">{'"meme dog"'}</span>{" "}
-                captured the hearts of millions worldwide with his one-of-a-kind
-                appearance and hilariously expressive face.{" "}
+                <span className="font-semibold italic">{'"degenerate hedgehog"'}</span>{" "}
+                Who Is Spikey?
+Nobody really knows.
+Some say he was a down-bad gambler living off instant noodles and roulette spins.
+Others say he was a Wall Street quant who hedged wrong and disappeared into a casino's neon haze.
+{" "}
               </p>
               <p className="indent-12 mt-3">
-                His photos first went viral in early 2020, became an instant
-                internet sensation. People adored his quirky expressions, which
-                seemed to perfectly match countless relatable moods, turning{" "}
-                <span className=" italic font-bold">Dui</span> into a staple of
+              Now? He’s not a man anymore.
+He’s a hedgehog — and he’s out for vengeance.{" "}
+                <span className=" italic font-bold">Spike</span> into a staple of
                 internet humor.
               </p>
               <p className="indent-12 mt-3">
-                His lovable nature brought joy and laughter to a global audience
-                during challenging times, making him a symbol of light-hearted
-                fun.
+              $SPIKEY: Born in Chaos
+No VC backing. No presale. No insider allocations.
+Every win from a livestreamed casino run gets pumped straight into the liquidity pool.
+No promises, no roadmaps — just pure, unfiltered degenerate energy.
               </p>
             </h3>
           </div>
@@ -73,15 +76,15 @@ const About = () => {
 
         <div className="mt-10 font-mono text-lg sm:text-2xl text-[#33271e] tracking-widest text-center">
           <p>
-            Unfortunately 🥹, <span className="text-3xl font-bold">Dui</span>{" "}
-            passed away on{" "}
-            <span className="italic font-semibold">October 18, 2023</span>,
-            after a tragic snake🐍 bite.
+            <span className="text-3xl font-bold">SPIKE</span>{" "}
+            started up his Hedge Fund on{" "}
+            <span className="italic font-semibold">May 18, 2025</span>,
+            after a tragic gambling losing spree.
           </p>
           <p className="text-4xl p-10">
-            But now{" "}
+            Now{" "}
             <span className="text-5xl font-bold underline decoration-duis">
-              Dui
+              SPIKE
             </span>{" "}
             is forever on{" "}
             <span className="text-5xl bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text font-bold">

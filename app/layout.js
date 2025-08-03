@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Dúi (aka Nguyen Van Dui) | Solana",
-  description: "Dui is forever on Solana",
+  title: "SPIKE (aka SpikeyTheHedge) | Solana",
+  description: "SPIKE is forever on Solana",
 };
 
 export default function RootLayout({ children }) {

@@ -13,11 +13,11 @@ const Footer = () => {
         </div>
         <div>
           <p className="text-md/relaxed text-gray-500">
-            © &nbsp; <span className="text-duis text-shadow">DUIS</span>{" "}
-            community 2024.
+            © &nbsp; <span className="text-duis text-shadow">SPIKE</span>{" "}
+            community 2025.
             <br />
             <span className="underline decoration-duis">
-              {"All cutes reserved for duis's dawgs."}
+              {"All rights reserved for Team Spike."}
             </span>
           </p>
           <p className="text-black mt-4 px-3 text-base sm:text-lg md:text-2xl opacity-30 break-words">
@@ -33,42 +33,18 @@ const Footer = () => {
         <div className="flex justify-between px-5 lg:justify-around">
           <div className="flex">
             <div>
-              <Image
-                className=""
-                src="/collection/1.png"
-                width={200}
-                height={200}
-                alt="dui 1"
-              />
+              
             </div>
             <div>
-              <Image
-                className=""
-                src="/collection/2.png"
-                width={200}
-                height={200}
-                alt="dui 2"
-              />
+              
             </div>
           </div>
           <div className="flex">
             <div>
-              <Image
-                className=""
-                src="/collection/4.png"
-                width={200}
-                height={200}
-                alt="dui 4"
-              />
+              
             </div>
             <div>
-              <Image
-                className=""
-                src="/collection/3.png"
-                width={200}
-                height={200}
-                alt="dui 3"
-              />
+              
             </div>
           </div>
         </div>

@@ -26,7 +26,7 @@ export default function Home() {
             <div>
               <Image
                 className=""
-                src="/collection/5.png"
+                src="/MiniSpike.png"
                 width={300}
                 height={300}
                 alt="dui-5"
@@ -43,7 +43,7 @@ export default function Home() {
             <div>
               <Image
                 className=""
-                src="/collection/7.png"
+                src="/MiniWood.png"
                 width={300}
                 height={300}
                 alt="dui-7"
@@ -58,21 +58,21 @@ export default function Home() {
           <div className="flex justify-center">
             <Image
               className="hidden md:block"
-              src="/collection/6.png"
+              src="/Spike1.png"
               width={300}
               height={300}
               alt="dui-6"
             />
             <Image
               className=""
-              src="/collection/8.png"
+              src="/Spike3.png"
               width={300}
               height={300}
               alt="dui-8"
             />
           </div>
           <div className="mt-5">
-            <p className="font-stopbuck text-2xl text-black">Woof! Woof!</p>
+            <p className="font-stopbuck text-2xl text-black"></p>
           </div>
         </div>
         {/* <WallOfLove /> */}
