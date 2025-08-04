@@ -55,7 +55,7 @@ const About = () => {
                 Who Is Spikey?
 Nobody really knows.
 Some say he was a down-bad gambler living off instant noodles and roulette spins.
-Others say he was a Wall Street quant who hedged wrong and disappeared into a casino's neon haze.
+Others say he was a Wall Street quant who hedged wrong and disappeared into a casino&apos;s neon haze.
 {" "}
               </p>
               <p className="indent-12 mt-3">
