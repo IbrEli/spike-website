@@ -58,14 +58,14 @@ export default function Home() {
           <div className="flex justify-center">
             <Image
               className="hidden md:block"
-              src="/Spike1.png"
+              src="/new1.png"
               width={300}
               height={300}
               alt="dui-6"
             />
             <Image
               className=""
-              src="/Spike3.png"
+              src="/new2.png"
               width={300}
               height={300}
               alt="dui-8"

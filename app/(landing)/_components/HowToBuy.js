@@ -56,7 +56,7 @@ const HowToBuy = () => {
             <span className="bg-gradient-to-r from-[#9945FF] to-[#14F195] inline-block text-transparent bg-clip-text uppercase font-extrabold text-2xl">
               $SOL
             </span>{" "}
-            for <span className="font-extrabold text-2xl text-duis">$SPIKE</span>
+            for <span className="font-extrabold text-2xl text-duis">$SPIKEY</span>
             .{`There's zero taxes so you don’t need to worry.`}
           </span>
         </OrderCard>
@@ -64,7 +64,7 @@ const HowToBuy = () => {
           <span>
             Welcome to the <br />
             <span className="uppercase font-extrabold text-2xl underline decoration-duis">
-              SPIKE Troppers
+              SPIKEY Troopers
             </span>
             !
           </span>
